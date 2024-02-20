@@ -1,0 +1,2 @@
+# Simulated Dice Statistics
+This program takes in input from the user to set the number of simulated dice rolls, the amount of dice being thrown, and the amount of faces on all the dice. It then runs X amount of simulated dice throws (where x was given by the user) and records the results into an array. After this it calculates the odds of any value being thrown, as well as the average throw value, and prints this to the screen.
